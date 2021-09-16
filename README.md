@@ -33,39 +33,7 @@ Asia – country codes 700-910
 MENA – country codes 600-698 
 Africa – country codes 402-590
 6) Protest: Is a dichotomous coding for whether or not there was a protest action in a particular period. The project defines a protest as a gathering of 50 or more people to make a demand of the government. 
-7) Protest number in year# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 4: Group Project
-
-
-## Overview ##
-We will be utilizing The Mass Mobilization (MM), the data mentioned will cover 162 countries on the planet Earth between January 1990 and March 2020. We then classify the data between “aggressive” and “non-aggressive” protests. 
-
-
-## Background ##
-We are the Jedi High Council, peacekeepers of the galaxy. In the past, we’ve spent a lot of time
-and resources resolving conflict after it has already occurred. We’ve come to understand that the best way to maintain peace is to pre-empt volatile situations  around  the  galaxy  that  could potentially lead to violent outcomes.
-
-
-## Problem Statement ##
-Governments have a history of varying responses toward different types of protests. We
-want to predict the likely government response - specifically, if it is likely to be aggressive to a given protest. Being able to accurately predict this will help us prevent any unnecessary economic losses and threats that may threaten the stability of the region.
-
-
-## Methodology ##
-We will be utilizing The Mass Mobilization (MM), the data mentioned will cover 162 countries on the planet Earth between January 1990 and March 2020. Afterwards, we will train our model using various machine learning techniques to classify whether a protest is aggressive or not.
-
-
-## Data dictionary ##
-1) Unique case identifier 
-2) Country name: Polity’s country name. 
-3) Country code (Polity code): three-digit Polity Project country code. 
-4) Year: 1990- 2020 
-5) Region: Regions correspond to Polity code breaks: 
-South America – country codes 100-165 
-Central America – country codes 40-95 
-North America – country codes 20-70 
-Europe – country codes 200-390 
-Asia – country codes 700-910 
-MENA – country codes : Represents the number of protests in a year. 
+7) Protest number in year: Represents the number of protests in a year. 
 8) Start day: The dates marks the beginning of the protest action. 
 9) Start month: The dates marks the beginning of the protest action. 
 10) Start year: The dates marks the beginning of the protest action. 
